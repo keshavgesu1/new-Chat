@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		561EE03A279EB19E002319EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561EE039279EB19E002319EF /* AppDelegate.swift */; };
-		561EE03C279EB19E002319EF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561EE03B279EB19E002319EF /* SceneDelegate.swift */; };
 		561EE03E279EB19E002319EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561EE03D279EB19E002319EF /* ViewController.swift */; };
 		561EE041279EB19E002319EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 561EE03F279EB19E002319EF /* Main.storyboard */; };
 		561EE043279EB1A0002319EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 561EE042279EB1A0002319EF /* Assets.xcassets */; };
@@ -18,7 +17,6 @@
 /* Begin PBXFileReference section */
 		561EE036279EB19E002319EF /* new Chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "new Chat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		561EE039279EB19E002319EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		561EE03B279EB19E002319EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		561EE03D279EB19E002319EF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		561EE040279EB19E002319EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		561EE042279EB1A0002319EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				561EE039279EB19E002319EF /* AppDelegate.swift */,
-				561EE03B279EB19E002319EF /* SceneDelegate.swift */,
 				561EE03D279EB19E002319EF /* ViewController.swift */,
 				561EE03F279EB19E002319EF /* Main.storyboard */,
 				561EE042279EB1A0002319EF /* Assets.xcassets */,
@@ -140,7 +137,6 @@
 			files = (
 				561EE03E279EB19E002319EF /* ViewController.swift in Sources */,
 				561EE03A279EB19E002319EF /* AppDelegate.swift in Sources */,
-				561EE03C279EB19E002319EF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
